@@ -1,0 +1,14 @@
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\PoseidonDeluxeDataAccess.dll.config
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\PoseidonDeluxeDataAccess.dll
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\PoseidonDeluxeDataAccess.pdb
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\PoseidonDeluxeCore.dll
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\PoseiodonDeluxeModel.dll
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\PoseidonDeluxeCore.pdb
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\PoseiodonDeluxeModel.pdb
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\obj\Debug\PoseidonDeluxeDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\obj\Debug\PoseidonDeluxeDataAccess.dll
+C:\Users\Lenovo-Pc\Desktop\HotelProject-master\PoseidonDeluxeDataAccess\obj\Debug\PoseidonDeluxeDataAccess.pdb
